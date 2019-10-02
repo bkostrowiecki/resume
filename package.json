@@ -1,0 +1,9 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "resume.json",
+  "repository": "https://github.com/bkostrowiecki/resume.git",
+  "author": "bkostrowiecki <bartosz.kostrowiecki@gmail.com>",
+  "license": "Unlicensed",
+  "private": true
+}
