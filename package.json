@@ -5,5 +5,11 @@
   "repository": "https://github.com/bkostrowiecki/resume.git",
   "author": "bkostrowiecki <bartosz.kostrowiecki@gmail.com>",
   "license": "Unlicensed",
-  "private": true
+  "private": true,
+  "scripts": {
+    "build:html": "resume export resume.html --theme short --format html"
+  },
+  "peerDependencies": {
+    "resume-cli": "0.4.19"
+  }
 }
