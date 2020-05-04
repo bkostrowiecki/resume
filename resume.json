@@ -5,7 +5,6 @@
     "picture": "https://pl.gravatar.com/userimage/63182736/5c4cf58666b0aa7f86c4d1c3ccb89edf.jpg?size=200",
     "email": "bartosz.kostrowiecki@gmail.com",
     "phone": "(+48) 794 022 666",
-    "summary": "I am a front-end developer with passion! I don't want to build stuff just for the sake of building. I want to make the change by creating beautiful user interfaces which will make life easier and better for people!",
     "location": {
       "city": "Warszawa",
       "countryCode": "Poland"
@@ -24,11 +23,26 @@
     ]
   },
   "work": [
+  	{
+      "company": "Memcare Sp. z o.o.",
+      "position": "Senior React Developer",
+      "website": "https://memcare.com",
+      "startDate": "2019-12-01",
+      "summary": "React developer",
+      "highlights": [
+        "Developing the client-side layer of applications",
+        "Working on 3 complementary applications",
+        "Implementing features based on bussiness requirements",
+        "Working with JSON API Standard",
+        "Colaborating with backend developers"
+      ]
+    },
     {
-      "company": "SoftwareONE",
+      "company": "SoftwareONE POLSKA Sp. z o.o.",
       "position": "Front-end developer",
       "website": "https://www.softwareone.com/",
       "startDate": "2019-03-18",
+      "endDate": "2019-11-30",
       "summary": "Front-end developer in Scrum team",
       "highlights": [
         "Developing the client-side layer of applications",
@@ -42,9 +56,9 @@
     },
     {
       "company": "Epicode sp. z o.o.",
-      "position": "Web developer",
+      "position": "Web Development Leader",
       "website": "https://epicode.pl",
-      "startDate": "2014-11-01",
+      "startDate": "2017-05-01",
       "endDate": "2019-02-28",
       "summary": "Front-end developer & team leader",
       "highlights": [
@@ -55,6 +69,20 @@
         "Maintaining existing functionalities in supported projects",
         "Keeping project documentation up to date",
         "Optimizations of applications - client-side",
+        "Writing unit tests and integration tests"
+      ]
+    },
+    {
+      "company": "Epicode sp. z o.o.",
+      "position": "Web developer",
+      "website": "https://epicode.pl",
+      "startDate": "2017-04-30",
+      "endDate": "2019-02-28",
+      "summary": "Front-end developer & team leader",
+      "highlights": [
+        "Implementing new functionalities in the field of user interfaces",
+        "Maintaining existing functionalities in supported projects",
+        "Keeping project documentation up to date",
         "Writing unit tests and integration tests"
       ]
     },
@@ -72,6 +100,15 @@
       ]
     }
   ],
+  "organizations": [{
+  	"name": "Sekcja Stoneru",
+  	"url": "https://sekcjastoneru.pl",
+  	"type": "culture",
+  	"positions": [{
+  		"title": "Technical leader",
+  		"startDate": "2020-04-20"
+  	}]
+  }],
   "skills": [
     {
       "name": "Languages",
