@@ -100,8 +100,8 @@
       ]
     }
   ],
-  "organizations": [{
-  	"name": "Sekcja Stoneru",
+  "volunteer": [{
+  	"organization": "Sekcja Stoneru",
   	"url": "https://sekcjastoneru.pl",
   	"type": "culture",
   	"positions": [{
